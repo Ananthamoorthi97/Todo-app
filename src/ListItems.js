@@ -6,3 +6,4 @@ function ListItems(props){
         <h1>Form ListItems.js</h1>
         )
 }
+export default ListItems;
